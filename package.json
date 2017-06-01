@@ -1,0 +1,29 @@
+{
+  "name": "electronjs",
+  "version": "1.0.0",
+  "description": "Electron Time",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeftarmascarenhas/electronjs.git"
+  },
+  "keywords": [
+    "Electronjs",
+    "javascript",
+    "desktop",
+    "web"
+  ],
+  "author": "Jeftar Mascarenhas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeftarmascarenhas/electronjs/issues"
+  },
+  "homepage": "https://github.com/jeftarmascarenhas/electronjs#readme",
+  "dependencies": {
+    "electron": "^1.4.15"
+  }
+}
