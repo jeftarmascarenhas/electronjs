@@ -9,7 +9,7 @@ app.on('ready', () => {
     height:400
   });
 
-  mainWindow.loadURL(`file://${__dirname}/app/index.html`);
+  mainWindow.loadURL(`file://${__dirname}/app/src/index.html`);
 
 });
 
